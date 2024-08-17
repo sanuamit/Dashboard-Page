@@ -1,0 +1,31 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Executive Dashboard",
+            "widgets": [
+                {
+                    "id": "1",
+                    "name": "Revenue Widget",
+                    "text": "Revenue statistics for the past quarter."
+                },
+                {
+                    "id": "2",
+                    "name": "User Growth",
+                    "text": "User growth trends over the last year."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Security Dashboard",
+            "widgets": [
+                {
+                    "id": "1",
+                    "name": "Threat Detection",
+                    "text": "Overview of detected threats and vulnerabilities."
+                }
+            ]
+        }
+    ]
+}
